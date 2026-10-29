@@ -11,7 +11,7 @@ function Categories() {
     <div>
         <div className='flex flex-row'>
 
-            <div class="aspect-[4/3] w-full overflow-hidden rounded-lg">
+            <div className="aspect-[4/3] w-full overflow-hidden rounded-lg">
                 
                 <img src={imgp1} class="h-full w-full object-cover object-bottom" alt="Category 1" />
             </div>
